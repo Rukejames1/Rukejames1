@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Rukejames1
 - 👀 I’m interested in Web development
 - 🌱 I’m currently learning javaScript
-- 💞️ I’m looking to collaborate , yeah! 
+- 💞️ I’m looking to collaborate, yeah! 
 
 
 <!---
